@@ -9,7 +9,7 @@ body {
 }
 
 main {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(13, 179, 234, 0.642);
     width: 560px;
     margin: auto;
     padding: 10px;
@@ -38,5 +38,5 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: rgb(26, 26, 255);
+    color: rgb(0, 0, 0);
 }
